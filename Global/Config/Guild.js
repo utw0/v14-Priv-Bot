@@ -1,8 +1,8 @@
 ﻿module.exports = {
     Guild:{
         Bots:{
-            mainToken:"MTAxMDE2MjY0Mzk0NTkzNDg2OA.Gi_Sah.Wh1ovUZkbjNKuC5kUfE5dF1bwpdkcqvCmZATXg",
-            MongoDb:"mongodb+srv://luhux:Utku4545@cluster0.3dsecvl.mongodb.net/testyeni?retryWrites=true&w=majority",
+            mainToken:"",
+            MongoDb:"",
             prefixs:["."],
             devs:["341592492224806914"]
         },
